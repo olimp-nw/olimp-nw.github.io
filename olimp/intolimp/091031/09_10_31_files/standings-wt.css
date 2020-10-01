@@ -1,0 +1,69 @@
+BODY {
+	TEXT-ALIGN: center
+}
+TABLE {
+	FONT-FAMILY: monospace
+}
+TABLE.wrapper {
+	PADDING-RIGHT: 0pt; PADDING-LEFT: 0pt; PADDING-BOTTOM: 0pt; MARGIN: 0pt; WIDTH: 100%; BORDER-TOP-STYLE: none; PADDING-TOP: 0pt; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-COLLAPSE: collapse; TEXT-ALIGN: center; BORDER-BOTTOM-STYLE: none
+}
+TABLE.standings {
+	PADDING-RIGHT: 1pt; PADDING-LEFT: 1pt; PADDING-BOTTOM: 1pt; MARGIN: 0pt; BORDER-TOP-STYLE: none; PADDING-TOP: 1pt; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM-STYLE: none
+}
+P {
+	FONT-FAMILY: monospace; TEXT-ALIGN: center
+}
+SMALL {
+	FONT-SIZE: xx-small
+}
+H2 {
+	FONT-SIZE: large; FONT-FAMILY: helvetica; TEXT-ALIGN: center
+}
+H3 {
+	FONT-SIZE: medium; FONT-FAMILY: helvetica
+}
+TH {
+	
+}
+TH.solved {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; TEXT-ALIGN: center
+}
+TH.penalty {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; TEXT-ALIGN: right
+}
+TH.party {
+	PADDING-LEFT: 10px; TEXT-ALIGN: left
+}
+TH.rank {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; TEXT-ALIGN: right
+}
+TH.problem {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; TEXT-ALIGN: center
+}
+TD {
+	TEXT-ALIGN: center
+}
+TD.solved {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; TEXT-ALIGN: right
+}
+TD.penalty {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; TEXT-ALIGN: right
+}
+TD.party {
+	PADDING-LEFT: 10px; TEXT-ALIGN: left
+}
+TD.rank {
+	PADDING-RIGHT: 10px; TEXT-ALIGN: right
+}
+TD.problem {
+	TEXT-ALIGN: center
+}
+B {
+	FONT-WEIGHT: normal; COLOR: #c06060
+}
+I {
+	COLOR: green; FONT-STYLE: normal
+}
+S {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; FONT-STYLE: normal; TEXT-DECORATION: none; font-face: arial
+}

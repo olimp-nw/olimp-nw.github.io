@@ -1,0 +1,370 @@
+body {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #ffffff;
+  margin: 0; padding: 0;
+}
+form {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #ffffff;
+  margin: 0; padding: 0;
+}
+p {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #ffffff;
+  margin-bottom: 10px; padding: 0;
+}
+code {
+  font-weight: normal;
+  font-size: 9pt;
+  font-family: Courier New;
+}
+h1 {
+  margin: 0pt;
+  font-weight: bold;
+  font-size: 10pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h2 {
+  margin: 0pt;
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h3 {
+  margin: 0pt;
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h4 {
+  margin: 0pt;
+  font-weight: bold;
+  font-size: 10pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.larger {
+  font-weight: bold;
+  font-size: 10pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a {
+  color: black;
+}
+.visited {
+  color: #005533;
+}
+.quotearea {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #ffffff;
+  border: solid 1px #a5a2a5;
+  margin: 3px; padding: 3px;
+}
+.icon {
+  vertical-align: text-bottom;
+}
+.radio {
+  vertical-align: middle;
+}
+.edit90 {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  width: 60px;
+  vertical-align: middle;
+}
+.edit165 {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  width: 165px;
+  vertical-align: middle;
+}
+.edit300 {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  width: 300px;
+  vertical-align: middle;
+}
+.edit400 {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  width: 400px;
+  vertical-align: middle;
+}
+.button60 {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: black;
+  background-color: #f7f3f7;
+  border: solid 1px #a5a2a5;
+  width: 60px;
+  vertical-align: middle;
+}
+.button100 {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: black;
+  background-color: #f7f3f7;
+  border: solid 1px #a5a2a5;
+  width: 100px;
+  vertical-align: middle;
+}
+.button150 {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: black;
+  background-color: #f7f3f7;
+  border: solid 1px #a5a2a5;
+  width: 150px;
+  vertical-align: middle;
+}
+.back {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #ffffff;
+}
+.light {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #f7f3f7;
+}
+.lightgrad45 {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #f7f3f7;
+  background-image: url(/ru/images/16/lightgrad45.png);
+  background-repeat: repeat-x;
+}
+.marked {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #e7e3e7;
+}
+.dark {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #e7e3e7;
+}
+.darkgrad25 {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #e7e3e7;
+  background-image: url(/ru/images/16/darkgrad25.png);
+  background-repeat: repeat-x;
+}
+.darkgrad30 {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #e7e3e7;
+  background-image: url(/ru/images/16/darkgrad30.png);
+  background-repeat: repeat-x;
+}
+.night {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #cecbce;
+}
+.tabfore {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #e7e3e7;
+}
+.tabforemid {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #e7e3e7;
+  background-image: url(/ru/images/16/tabforemid.png);
+  background-repeat: repeat-x;
+}
+.tabforerightbd {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #e7e3e7;
+  background-image: url(/ru/images/16/tabforerightbd.png);
+}
+.tabforerightnd {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #e7e3e7;
+  background-image: url(/ru/images/16/tabforerightnd.png);
+}
+.tabforebottom {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #e7e3e7;
+  background-image: url(/ru/images/16/tabforerightnd.png);
+  background-repeat: repeat-x;
+}
+.tabback {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #f7f3f7;
+}
+.tabbackmid {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #f7f3f7;
+  background-image: url(/ru/images/16/tabbackmid.png);
+  background-repeat: repeat-x;
+}
+.tabbackrightbd {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #f7f3f7;
+  background-image: url(/ru/images/16/tabbackrightbd.png);
+}
+.tabbackrightfd {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #e7e3e7;
+  background-image: url(/ru/images/16/tabbackrightfd.png);
+}
+.tabbackrightnd {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #f7f3f7;
+  background-image: url(/ru/images/16/tabbackrightnd.png);
+}
+.tabnonemid {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #ffffff;
+  background-image: url(/ru/images/16/tabnonemid.png);
+  background-repeat: repeat-x;
+}
+.ptable {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #ffffff;
+  border-left: solid black 1px;
+  border-top: solid black 1px;
+}
+.ptd {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  color: black;
+  background-color: #ffffff;
+  border-right: solid black 1px;
+  border-bottom: solid black 1px;
+}
+.xtable {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  border-left: 0px;
+  border-top: 0px;
+  border-right: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  margin-left: 0em;
+  margin-top: 0.5em;
+  margin-right: 0em;
+  margin-bottom: 0.5em;
+}
+.xtd {
+  vertical-align: top;
+  border-left: 1px solid #000000;
+  border-top: 1px solid #000000;
+  border-right: 0px;
+  border-bottom: 0px;
+  padding-left: 0.8em;
+  padding-top: 0.2em;
+  padding-right: 1em;
+  padding-bottom: 0.2em;
+  background-color: #ffffff;
+}
+.xtdcode {
+  font-weight: normal;
+  font-size: 8pt;
+  font-family: Courier New, Verdana, Arial, Helvetica, sans-serif;
+  vertical-align: top;
+  border-left: 1px solid #000000;
+  border-top: 1px solid #000000;
+  border-right: 0px;
+  border-bottom: 0px;
+  padding-left: 1em;
+  padding-top: 0.2em;
+  padding-right: 1em;
+  padding-bottom: 0.2em;
+  background-color: #ffffff;
+}
